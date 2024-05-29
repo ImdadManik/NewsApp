@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CHIP Online Deutschland",
+            "title": "Auch Kontodaten in Gefahr: Gefährlicher Banking-Trojaner breitet sich weiter aus - CHIP Online Deutschland",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9HZWZhZWhybGljaGVyLUJhbmtpbmctVHJvamFuZXItU28ta29lbm5lbi1zaWUtc2ljaC1zY2h1ZXR6ZW5fMTg1MjgzNjI3Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:34:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sudinfo.be",
+            "title": "Vers une accélération du déploiement des compteurs communicants ? « Compte tenu des avantages, il est temps de rendre cette technologie disponible dans toute la Belgique » - Sudinfo.be",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zdWRpbmZvLmJlL2lkODQwODgwL2FydGljbGUvMjAyNC0wNS0yNy92ZXJzLXVuZS1hY2NlbGVyYXRpb24tZHUtZGVwbG9pZW1lbnQtZGVzLWNvbXB0ZXVycy1jb21tdW5pY2FudHMtY29tcHRlLXRlbnUtZGVz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:16:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Le Figaro",
+            "title": "Russie: un mort et trois blessés dans une attaque de drone ukrainien contre une station-service - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9mbGFzaC1hY3R1L3J1c3NpZS11bi1tb3J0LWV0LXRyb2lzLWJsZXNzZXMtZGFucy11bmUtYXR0YXF1ZS1kZS1kcm9uZS11a3JhaW5pZW4tY29udHJlLXVuZS1zdGF0aW9uLXNlcnZpY2UtMjAyNDA1MjfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:12:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Gizmodo Australia",
+            "title": "How To Find All the People You've Ever Blocked - Gizmodo Australia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZ2l6bW9kby5jb20uYXUvMjAyNC8wNS9ob3ctdG8tZmluZC1hbGwtdGhlLXBlb3BsZS15b3V2ZS1ldmVyLWJsb2NrZWQv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:10:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Die Tagespresse",
+            "title": "Fehlerhafte Google-KI-Suche: Das sind die absurdesten Falsch-Antworten - Die Tagespresse",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZGlldGFnZXNwcmVzc2UuY29tL2ZlaGxlcmhhZnRlLWdvb2dsZS1raS1zdWNoZS1kYXMtc2luZC1kaWUtYWJzdXJkZXN0ZW4tZmFsc2NoLWFudHdvcnRlbi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:08:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Golem.de",
+            "title": "Tape Storage: Der Bedarf an Magnetbändern steigt weiter merklich an - Golem.de",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmdvbGVtLmRlL25ld3MvdGFwZS1zdG9yYWdlLWRlci1iZWRhcmYtYW4tbWFnbmV0YmFlbmRlcm4tc3RlaWd0LXdlaXRlci1tZXJrbGljaC1hbi0yNDA1LTE4NTQ2My5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:07:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Xataka",
+            "title": "Qué significan las flechas que hay en los iconos de Bluetooth, WiFi y datos 4G o 5G de tu móvil - Xataka",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnhhdGFrYS5jb20vYmFzaWNzL3F1ZS1zaWduaWZpY2FuLWZsZWNoYXMtcXVlLWhheS1pY29ub3MtYmx1ZXRvb3RoLXdpZmktZGF0b3MtNGctNWctdHUtbW92aWzSAWtodHRwczovL3d3dy54YXRha2EuY29tL2Jhc2ljcy9xdWUtc2lnbmlmaWNhbi1mbGVjaGFzLXF1ZS1oYXktaWNvbm9zLWJsdWV0b290aC13aWZpLWRhdG9zLTRnLTVnLXR1LW1vdmlsL2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:01:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "t-online",
+            "title": "Apple: Diese KI-Funktionen kommen aufs iPhone - t-online",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnQtb25saW5lLmRlL2RpZ2l0YWwvYWt0dWVsbGVzL2lkXzEwMDQxNDQ1NC9hcHBsZS1kaWVzZS1raS1mdW5rdGlvbmVuLWtvbW1lbi1hdWZzLWlwaG9uZS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:00:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Xataka",
+            "title": "OpenAI ha estado usando NDAs ultrarrestrictivos para silenciar a exempleados críticos con la empresa. O tu libertad o tu 'equity' - Xataka",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy54YXRha2EuY29tL2VtcHJlc2FzLXktZWNvbm9taWEvb3BlbmFpLWhhLWVzdGFkby11c2FuZG8tbmRhcy11bHRyYXJyZXN0cmljdGl2b3MtcGFyYS1zaWxlbmNpYXItYS1leGVtcGxlYWRvcy1jcml0aWNvcy1lbXByZXNhLXR1LWxpYmVydGFkLXR1LWVxdWl0edIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:00:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Univers Freebox",
+            "title": "Apple TV : une nouveauté bien pratique pour les abonnés Canal+ - Univers Freebox",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVuaXZlcnNmcmVlYm94LmNvbS9hcnRpY2xlLzU2NjE0Ni9hcHBsZS10di11bmUtbm91dmVhdXRlLWJpZW4tcHJhdGlxdWUtcG91ci1sZXMtYWJvbm5lcy1jYW5hbNIBbWh0dHBzOi8vd3d3LnVuaXZlcnNmcmVlYm94LmNvbS9hcnRpY2xlLzU2NjE0Ni9hcHBsZS10di11bmUtbm91dmVhdXRlLWJpZW4tcHJhdGlxdWUtcG91ci1sZXMtYWJvbm5lcy1jYW5hbC9hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T10:00:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "inside digital",
+            "title": "Kabel & Internet: Telekom-Kunden werden zu Vodafone-Kunden - inside digital",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lmluc2lkZS1kaWdpdGFsLmRlL25ld3Mva2FiZWwtaW50ZXJuZXQtZGllc2UtdGVsZWtvbS1rdW5kZW4td2VyZGVuLWpldHp0LXp1LXZvZGFmb25lLWt1bmRlbtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:48:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "infobae",
+            "title": "¿Generar conversaciones es la clave para lograr éxito comercial? - infobae",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmluZm9iYWUuY29tL29waW5pb24vMjAyNC8wNS8yNy9nZW5lcmFyLWNvbnZlcnNhY2lvbmVzLWVzLWxhLWNsYXZlLXBhcmEtbG9ncmFyLWV4aXRvLWNvbWVyY2lhbC_SAX5odHRwczovL3d3dy5pbmZvYmFlLmNvbS9vcGluaW9uLzIwMjQvMDUvMjcvZ2VuZXJhci1jb252ZXJzYWNpb25lcy1lcy1sYS1jbGF2ZS1wYXJhLWxvZ3Jhci1leGl0by1jb21lcmNpYWwvP291dHB1dFR5cGU9YW1wLXR5cGU?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:47:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CHIP Online Deutschland",
+            "title": "Bankdaten in Gefahr: Äußerst perfide Android-Malware tarnt sich als Google-Update - CHIP Online Deutschland",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9BbmRyb2lkLU51dHplci1hdWZnZXBhc3N0LUZpZXNlLU1hbHdhcmUtYWxzLUdvb2dsZS1VcGRhdGVzLWdldGFybnRfMTg1Mjg1ODEzLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:44:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Forbes",
+            "title": "'Dota 2' 7.36a Patch Notes Bring Big Nerfs To Popular Heroes - Forbes",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWlrZXN0dWJicy8yMDI0LzA1LzI3L2RvdGEtMi03MzZhLXBhdGNoLW5vdGVzLWJyaW5nLWJpZy1uZXJmcy10by1wb3B1bGFyLWhlcm9lcy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:42:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Xataka",
+            "title": "China tiene claro cuál es el camino para tener mejores chips pese a EEUU: dejarse de nodos avanzados y... - Xataka",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy54YXRha2EuY29tL2VtcHJlc2FzLXktZWNvbm9taWEvY2hpbmEtdGllbmUtY2xhcm8tY3VhbC1jYW1pbm8tcGFyYS10ZW5lci1tZWpvcmVzLWNoaXBzLXBlc2UtYS1lZXV1LWRlamFyc2Utbm9kb3MtYXZhbnphZG9zLWFwb3N0YXItdmljdG9yaWEtdGFuZ2libGXSAaMBaHR0cHM6Ly93d3cueGF0YWthLmNvbS9lbXByZXNhcy15LWVjb25vbWlhL2NoaW5hLXRpZW5lLWNsYXJvLWN1YWwtY2FtaW5vLXBhcmEtdGVuZXItbWVqb3Jlcy1jaGlwcy1wZXNlLWEtZWV1dS1kZWphcnNlLW5vZG9zLWF2YW56YWRvcy1hcG9zdGFyLXZpY3RvcmlhLXRhbmdpYmxlL2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:30:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ADSLZone",
+            "title": "Los usuarios de Android Auto continúan reportando fallos en la conexión inalámbrica: esta es la solución temporal - ADSLZone",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFkc2x6b25lLm5ldC9lLW1vdmlsaWRhZC9ub3RpY2lhcy1lbi1tYXJjaGEvdXN1YXJpb3MtYW5kcm9pZC1hdXRvLWZhbGxvcy1jb25leGlvbi1zaW4tc29sdWNpb25hci_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Kleine Zeitung",
+            "title": "Geschäftsmodell der Neobroker steht auf dem Prüfstand - Kleine Zeitung",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmtsZWluZXplaXR1bmcuYXQvd2lydHNjaGFmdC8xODQ4Njc4NS9nZXNjaGFlZnRzbW9kZWxsLWRlci1uZW9icm9rZXItc3RlaHQtYXVmLWRlbS1wcnVlZnN0YW5k0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Golem.de",
+            "title": "Reference Design: Asus, Dell und Acer bauen möglicherweise nächste Xboxen - Golem.de - Golem.de",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmdvbGVtLmRlL25ld3MvcmVmZXJlbmNlLWRlc2lnbi1hc3VzLWRlbGwtdW5kLWFjZXItYmF1ZW4tbW9lZ2xpY2hlcndlaXNlLW5hZWNoc3RlLXhib3hlbi0yNDA1LTE4NTQ2MC5odG1s0gF4aHR0cHM6Ly93d3cuZ29sZW0uZGUvbmV3cy9yZWZlcmVuY2UtZGVzaWduLWFzdXMtZGVsbC11bmQtYWNlci1iYXVlbi1tb2VnbGljaGVyd2Vpc2UtbmFlY2hzdGUteGJveGVuLTI0MDUtMTg1NDYwLmFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:24:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Факти",
+            "title": "iOS 18: Какво да очакваме? ᐉ Новини от Fakti.bg - Технологии - Факти",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZmFrdGkuYmcvdGVjaG5vem9uZS84ODM5MjEtaW9zLTE4LWtha3ZvLWRhLW9jaGFrdmFtZdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mirage News",
+            "title": "Research Unveils New Tech Using Magnetic Nanoclusters for Sepsis - Mirage News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL3Jlc2VhcmNoLXVudmVpbHMtbmV3LXRlY2gtdXNpbmctbWFnbmV0aWMtMTI0MzQ1Ni_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-27T09:12:00Z",
+            "content": null
+        }
+    ]
+}
