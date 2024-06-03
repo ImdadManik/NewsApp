@@ -30,13 +30,14 @@ const News = (props) => {
 
   useEffect(() => {
     updateNews();
+    document.title = `${capitalize(props.category)} + NewMonkey`;
+    // eslint-disable-next-line
   }, []);
 
   const fetchMoreData = async () => {
-    const newPage = page + 1;
-    setPage(newPage);
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=fa7b383e7cc54ee59c72342a0e1820e1&page=${page + 1}&pageSize=${props.pageSize}`;
+    setPage(page + 1);
     setLoading(true);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=fa7b383e7cc54ee59c72342a0e1820e1&page=${newPage}&pageSize=${props.pageSize}`;
     let data = await fetch(url);
     let jsonDS = await data.json();
     setArticles(articles.concat(jsonDS.articles));
@@ -46,7 +47,7 @@ const News = (props) => {
 
   return (
     <>
-      <h1 className="text-center">NewsMonkey - Top {capitalize(props.category)} Headlines.</h1>
+      <h1 style={{ marginTop: '90px' }} className="text-center">NewsMonkey - Top {capitalize(props.category)} Headlines.</h1>
       {loading && <Spinner />}
       <InfiniteScroll
         dataLength={articles.length}
